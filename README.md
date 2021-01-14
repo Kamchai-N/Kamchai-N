@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on something cool 😎
 - 🌱 I’m currently learning everything and everyday 🤣
-- 🥅 2020 Goals: Learning AL and ML for Graduate Project 📖
+<!-- 🥅 2020 Goals: Learning AL and ML for Graduate Project 📖 -->
 - 🎧 Fun fact: I love to listen to something on Spotify 🎵
 
 
