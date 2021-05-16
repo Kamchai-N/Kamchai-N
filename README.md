@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on something cool 😎
 - 🌱 I’m currently learning everything and everyday 🤣
-- 🥅 2021 Goals: 📖
+- 🥅 2021 Goals: I will graduated with a bachelor's degree📖
 - 🎧 Fun fact: I love to listen to something on Spotify 🎵
 
 
