@@ -31,10 +31,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js                     2 hrs 38 mins   ███████▓░░░░░░░░░░░░░░░░░   30.66 %
-Docker                     1 hr 34 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
-Nginx configuration file   1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
-Other                      1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
+Vue.js                     2 hrs 33 mins   ████████░░░░░░░░░░░░░░░░░   32.65 %
+Docker                     1 hr 18 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
+Other                      1 hr 5 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
 ```
 
 <!--END_SECTION:waka-->
