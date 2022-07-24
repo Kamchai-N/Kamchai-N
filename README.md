@@ -26,7 +26,7 @@
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />
-<img align="left" alt="Flutter" width="26px" src="https://camo.githubusercontent.com/d6f943051b3c9ab626a05a4efa0353ac8a6333889c25cd6281dcf0c4df6b380a/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f636d732d73746f726167652d6275636b65742f63383233653533623361316137623064333661392e706e67" />
+<img align="left" alt="Flutter" width="46px" src="https://camo.githubusercontent.com/d6f943051b3c9ab626a05a4efa0353ac8a6333889c25cd6281dcf0c4df6b380a/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f636d732d73746f726167652d6275636b65742f63383233653533623361316137623064333661392e706e67" />
 <br /><br />
 
 ### 📊 This week I spent my time on :
