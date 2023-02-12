@@ -33,8 +33,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-JSON                       14 mins         ███████████████▓░░░░░░░░░   62.24 %
-Other                      5 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.05 %
+Nginx configuration file   0 secs          ██████████████████░░░░░░░   71.79 %
+Vue.js                     0 secs          █████▓░░░░░░░░░░░░░░░░░░░   23.19 %
+JavaScript                 0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+JSON                       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 
 <!--END_SECTION:waka-->
