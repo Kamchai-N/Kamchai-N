@@ -33,10 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Nginx configuration file   0 secs          ██████████████████░░░░░░░   71.79 %
-Vue.js                     0 secs          █████▓░░░░░░░░░░░░░░░░░░░   23.19 %
-JavaScript                 0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-JSON                       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Go   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
