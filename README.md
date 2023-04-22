@@ -33,12 +33,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin                     5 hrs 8 mins    ██████████▒░░░░░░░░░░░░░░   41.49 %
-Nginx configuration file   1 hr 51 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
-JavaScript                 1 hr 28 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
-Go                         1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
-JSON                       50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-Groovy                     39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+Kotlin                     7 hrs 12 mins   ████████████░░░░░░░░░░░░░   48.15 %
+Nginx configuration file   1 hr 51 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
+JavaScript                 1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+Go                         1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+JSON                       50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+Groovy                     41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
 ```
 
 <!--END_SECTION:waka-->
