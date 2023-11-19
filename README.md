@@ -33,11 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go                         1 hr 59 mins    ████████▓░░░░░░░░░░░░░░░░   34.77 %
-JavaScript                 1 hr 23 mins    ██████░░░░░░░░░░░░░░░░░░░   24.21 %
-JSON                       1 hr 5 mins     ████▓░░░░░░░░░░░░░░░░░░░░   19.22 %
-Docker                     33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
-Nginx configuration file   17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+JavaScript                 1 hr 25 mins    █████████▒░░░░░░░░░░░░░░░   36.98 %
+JSON                       1 hr 7 mins     ███████▒░░░░░░░░░░░░░░░░░   29.22 %
+Docker                     33 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 %
+Nginx configuration file   17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+HTML                       13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
 ```
 
 <!--END_SECTION:waka-->
