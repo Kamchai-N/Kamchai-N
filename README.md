@@ -33,8 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go     14 mins         ███████████████████████▒░   92.76 %
-Bash   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
