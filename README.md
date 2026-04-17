@@ -33,7 +33,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go       57 mins               ███████████████████▓░░░░░   78.13 %
+Bash     11 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
+Dart     2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Python   2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
 ```
 
 <!--END_SECTION:waka-->
