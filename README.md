@@ -33,8 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart     2 mins                █████████████████████░░░░   84.42 %
-Kotlin   0 secs                ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
