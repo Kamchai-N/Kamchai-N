@@ -33,7 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin     5 hrs 25 mins         ██████████████▒░░░░░░░░░░   57.54 %
+XML        1 hr 58 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.84 %
+Go         39 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Dart       36 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+Swift      28 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 ```
 
 <!--END_SECTION:waka-->
