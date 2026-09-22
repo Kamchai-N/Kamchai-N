@@ -33,7 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart              2 hrs 31 mins         ███████████░░░░░░░░░░░░░░   44.50 %
+Kotlin            1 hr 27 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.64 %
+Markdown          1 hr                  ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
+Other             24 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+Bash              5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
