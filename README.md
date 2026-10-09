@@ -33,8 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PowerShell   1 min                 ███████████████████████▓░   95.23 %
-Other        0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
