@@ -33,7 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart              3 hrs 28 mins         █████████████▒░░░░░░░░░░░   53.97 %
+Other             51 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
+Kotlin            40 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+Java Properties   26 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+Markdown          21 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
 ```
 
 <!--END_SECTION:waka-->
